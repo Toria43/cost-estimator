@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(230, 233, 248);
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+    color: rgb(29, 29, 187);
+}
+.container {
+    background-color: white;
+    width: 100%;
+    max-width: 900px;
+}
